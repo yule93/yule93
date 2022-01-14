@@ -1,6 +1,5 @@
-## 😎Tech Stack
+## 💻 Tech Stack
 
-자기소개 notion: https://checker-belly-21c.notion.site/ea549b3a5b8e4f91842043371b1f9c1b
 
 최근 주로 **✨웹 프론트엔드✨를 담당해 프로젝트를 진행하고 있습니다.** 사용하는 스택은 **Java, Javascript, Vue, React**입니다.
 
@@ -17,6 +16,15 @@
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="20px">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white" height="20px">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white" height="20px">
+
+
+## 😎 About Me
+<a href = "https://checker-belly-21c.notion.site/ea549b3a5b8e4f91842043371b1f9c1b">
+  <img src="https://img.shields.io/badge/notion-232F3E?style=for-the-badge&logo=notion&logoColor=white" height="20px" >
+</a>
+<a href = "https://blog.naver.com/dbfm2222">
+  <img src="https://img.shields.io/badge/blog-01DF74?style=for-the-badge&logo=naver&logoColor=white" height="20px" >
+</a>
 
 <!---
 yule93/yule93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
