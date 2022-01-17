@@ -1,5 +1,6 @@
-## 💻 Tech Stack
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yule93&show_icons=true&theme=radical)
 
+## 💻 Tech Stack
 
 최근 주로 **✨웹 프론트엔드✨를 담당해 프로젝트를 진행하고 있습니다.** 사용하는 스택은 **Java, Javascript, Vue, React**입니다.
 
