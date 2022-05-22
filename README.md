@@ -2,7 +2,9 @@
 
 ## 💻 Tech Stack
 
-최근 주로 **✨웹 프론트엔드✨를 담당해 프로젝트를 진행하고 있습니다.** 사용하는 스택은 **Java, Javascript, Vue, React**입니다.
+최근 주로 **✨웹 프론트엔드&백엔드✨를 담당해 프로젝트를 진행하고 있습니다.** 사용하는 스택은 **Java, Javascript, Vue, React**입니다.
+
+PR의 개수가 적어보이지만 GitLab에서 작성한 MR 미러링이 보안상 문제로 되지 않아 그렇게 보이는 것 뿐입니다... ^-ㅠ
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white" height="20px"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" height="20px"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="20px">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="20px">
